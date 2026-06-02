@@ -1,0 +1,345 @@
+# PFTE Science Library
+## Acoustic & Neurophysiological Research Reference
+### For all AI Systems — FUTURE SONANCE / 上海炜禾文化传播有限公司
+### Version 1.0 | Last Updated: June 2, 2026
+
+---
+
+## 00. HOW TO USE THIS FILE
+
+This is the research foundation for all PFTE series production.
+Before building any new PFTE series, consult this library first.
+
+Each section covers:
+- The target mental/physiological state
+- The frequencies and acoustic techniques that produce it
+- The clinical guardrails (what to avoid)
+- The key research references that validate the approach
+- Production notes from completed PFTE series
+
+Do not invent frequency claims. Do not hallucinate research.
+If a claim is not in this library, flag it and research before use.
+
+---
+
+## 01. SLEEP — Deep & Restorative
+### Applied in: PFTE: Insomnia Remedy (Series 01)
+
+### Target State
+Deep NREM sleep (Stages 3-4). Delta brainwave dominance.
+Reduction of micro-arousals. Continuous 8-9hr sleep cycle maintenance.
+
+### Frequencies That Work
+
+| Frequency / Technique | Effect | Notes |
+|---|---|---|
+| Delta waves (1–3 Hz) | Deep sleep induction. Restorative NREM. | Carrier frequency, not audible directly |
+| Theta waves (4–8 Hz) | Light sleep, drowsiness, hypnagogic state | Used in early phases (SIGNAL, INDUCTION) |
+| 432 Hz tuning | Believed to lower blood pressure, slow heart rate | Mathematically consistent with natural resonance. Some debate on scientific rigor — use as secondary support, not primary claim |
+| Sub-bass carrier (<200 Hz) | Masks environmental noise without broadband noise disruption | The Sub-Veil Filter — PFTE proprietary technique |
+| Binaural beats (Delta range) | Brainwave entrainment toward sleep frequencies | Requires headphones for full effect. Effective for sleep onset. |
+
+### Clinical Guardrails — What to Avoid
+
+| Avoid | Reason |
+|---|---|
+| Pink noise (continuous broadband) | Penn Medicine study: reduces REM sleep, may harm sleep quality and memory consolidation |
+| Percussive transients / beats | Activates cognitive rhythm-tracking. Brain stays alert predicting next beat. |
+| Frequencies above 8kHz | Alerting effect. PFTE standard: ≤ −60 dB at 8kHz |
+| Sudden dynamic shifts | Triggers micro-arousals. LRA target: ≤6.0 LU |
+| Binaural beats above Theta range | Alpha and Beta binaural beats are alerting, not sleep-inducing |
+
+### Key Research References
+
+- Pink noise reduces REM sleep and may harm sleep quality — Penn Medicine / Penn Today
+- Overnight exposure to pink noise could jeopardize sleep-dependent insight and pattern detection — PMC
+- The effect of auditory stimulation using delta binaural beat for a better sleep — PMC
+- Effect of brainwave entrainment on sleep quality among MBBS students in India — PMC
+- Binaural beats to entrain the brain? A systematic review — PMC
+- Elements of music that work to improve sleep, a narrative review — Frontiers / PubMed
+- The audio features of sleep music: Universal and subgroup characteristics — PLOS One
+- Study: Waterfall Sounds Enhance Deep Sleep, Memory in Older Adults — Chicago News
+- Playing sounds during deep sleep boosts restorative brain waves — r/neuroscience / PMC
+- Can Binaural Beats Help You Fall Asleep? — Sleep Foundation
+- How Can Binaural Beats Help You Sleep Better? — Psychology Today
+- Sleep Sounds Compared: Which Type Helps You Sleep? — NSDR.co
+- White Noise vs Binaural Beats: What Science Says — Neurosity
+- Overview of subgroups of sleep music — ResearchGate
+
+### PFTE: Insomnia Remedy — Production Notes
+
+**5-Phase Architecture (9hr 45min total):**
+
+| Phase | Duration | Brainwave Target | Key Technique |
+|---|---|---|---|
+| 001 SIGNAL | 2hr 15min | Alpha → Theta | Disrupts active Alpha loops. Compatible with pre-sleep phone use. |
+| 002 INDUCTION | 65min | Theta dominance | Drops sensory tracking. Acute sleep-onset resistance overcome. |
+| 003 DESCENT | 25min | Theta → Delta bridge | Monotonic high-shelf attenuation. Heart rate deceleration. |
+| 004 CORE | 5hr | Delta lock | Sub-Veil Filter (<200Hz LPF). Blocks micro-arousals. |
+| 005 DAWN | 48min | Delta → Alpha | +21 dB progressive upward sweep. Cortisol rise simulation. |
+
+**QC Standards:**
+- Integrated LUFS: −20.0 ±0.5
+- LRA: ≤6.0 LU (exception: CORE ≤14 LU approved)
+- True Peak: ≤−1.5 dBFS
+- Format: WAV 48kHz stereo 16-bit
+- Tuning: 432 Hz
+
+---
+
+## 02. CHILL / AMBIENT — Relaxed Alertness
+### Applied in: PFTE: Drift (Series 02)
+
+### Target State
+Relaxed but conscious. Alpha wave dominance.
+Not sleep. Not work. The space between.
+Reduced cortisol. Lowered cognitive load. Present-moment awareness.
+
+### Frequencies That Work
+
+| Frequency / Technique | Effect | Notes |
+|---|---|---|
+| Alpha waves (8–13 Hz) | Relaxed alertness. Calm without drowsiness. | The "flow state" precursor |
+| Low Theta (4–6 Hz) | Deep relaxation, creative daydreaming | Avoid deep Theta — edges into sleep induction |
+| 528 Hz (Solfeggio) | Some evidence for stress reduction, ANS regulation | Effect on endocrine system studied. Use as flavor, not foundation. |
+| Slow tempo (60–80 BPM) | Synchronizes with resting heart rate | Minimal percussion. No driving rhythms. |
+| Natural textures | Rain, water, ambient room tone | Psychologically associated with safety and rest |
+
+### Clinical Guardrails — What to Avoid
+
+| Avoid | Reason |
+|---|---|
+| Delta carrier frequencies | Will induce drowsiness / sleep. Wrong state for Drift. |
+| High-energy rhythmic content | Activates sympathetic nervous system. Wrong direction. |
+| Sudden silence or drops | Startle response. Breaks the ambient bubble. |
+| Lyrics or intelligible speech | Engages language processing. Increases cognitive load. |
+
+### Key Research References
+
+- Effect of 528 Hz Music on the Endocrine System and Autonomic Nervous System — multiple sources
+- Elements of music that work to improve sleep, a narrative review — Frontiers
+- The Science Behind It: Music and the Nervous System — Fullerton Observer
+- Gentle Music for Sleep: Pleasant vs Physiologically Active — Mattress Miracle
+- Music we move to: Spotify audio features and reasons for listening — PLOS One
+- The Effect of Music on Heart Rate — GotAED
+- Solfeggio Frequencies: Healing Tones or Pseudoscience? — HowStuffWorks
+- Healing Sound Frequencies: The Science, The Myths, The Truth — Sound Medicine Academy
+- What are Solfeggio Frequencies: Is There Science Behind These Sacred Sounds?
+
+### PFTE: Drift — Production Notes
+
+**13-Track Arc (light to dark):**
+Dusk / Pulse / Tune Down / Unwind / Liminal /
+Settle / Ambience / Submerged / Solitude / Space /
+Triage / Transcendence / Subzero
+
+**Mastering:** −14 LUFS, EBU R128, true peak ≤ −1 dBTP
+**Classification:** Chill / lounge / dark ambient. Not sleep. Not work.
+
+---
+
+## 03. FOCUS / PRODUCTIVITY — Deep Work
+### Applied in: PFTE: Work Mode (Series 03 — PLANNED)
+
+### Target State
+Sustained cognitive focus. Reduced distraction.
+Flow state entry and maintenance.
+Low anxiety. High executive function.
+Target user: deep work sessions, coding, writing, design, studying.
+
+### Frequencies That Work
+
+| Frequency / Technique | Effect | Evidence Level |
+|---|---|---|
+| Beta waves (13–30 Hz) | Active thinking, focus, alertness | Strong. Beta dominates during focused cognitive work. |
+| Low Beta (13–15 Hz) | Calm focus without anxiety | Sweet spot for sustained work. Avoid high Beta (>25 Hz) — produces anxiety. |
+| Gamma waves (30–100 Hz) | Higher cognitive processing, information binding | Emerging research. Associated with peak mental performance. |
+| 40 Hz Gamma entrainment | Cognitive enhancement, attention | Active research area. Some evidence for focus and memory. |
+| Alpha (8–13 Hz) as baseline | Reduces background anxiety during focus | Used as underlayer. Prevents over-activation. |
+| Binaural beats (Beta range) | Entrains brain toward focus frequencies | Requires headphones. More research needed but directionally positive. |
+| Brown noise | Masks distraction without alerting effect | Preferred over white noise for focus tasks. Less fatiguing. |
+| Isochronic tones (Beta) | Brainwave entrainment without headphones | Does not require stereo separation. More accessible than binaural. |
+
+### Clinical Guardrails — What to Avoid
+
+| Avoid | Reason |
+|---|---|
+| Delta / deep Theta carriers | Will induce drowsiness. Wrong direction entirely. |
+| High Beta (>25 Hz) entrainment | Produces anxiety and cognitive overload |
+| Music with lyrics | Language processing competes with reading/writing tasks |
+| Dynamic variation / builds | Pulls attention. Focus music must be predictable and stable. |
+| Pink noise (prolonged) | REM disruption risk carries over to daytime cognitive recovery |
+| Emotionally activating music | Triggers default mode network. Mind wanders. |
+
+### Research To Validate Before Production
+
+These are directions to research — not confirmed PFTE positions yet:
+
+- 40 Hz gamma entrainment and cognitive performance (MIT / Alzheimer's research — check PMC)
+- Brown noise vs white noise for cognitive task performance
+- Isochronic tones efficacy vs binaural beats for focus
+- Optimal session length for focus music (does efficacy decay after 90 min?)
+- NASA Task Load Index studies on background music and cognitive load
+- Mozart Effect — largely debunked but understand why, for positioning
+- The "arousal-mood" hypothesis: music improves performance via mood, not direct neural entrainment
+
+### Competitive Landscape
+
+| Product | Approach | Weakness |
+|---|---|---|
+| Brain.fm | AI-generated focus music, neural phase locking | Subscription gated. Generic aesthetic. |
+| Focus@Will | Curated focus music by genre | Human-curated, not clinical. Dated UI. |
+| Endel | Adaptive soundscapes, Apple integration | Beautiful but expensive. |
+| Lo-fi hip hop streams | Beats. Rhythm. Community. | Not clinical. Rhythm activates tracking. |
+
+**PFTE Work Mode differentiation:**
+Clinical + aesthetic. The pharmaceutical-brutalist design language
+applied to productivity. Not background music. A work system.
+Target: knowledge workers, designers, developers, writers.
+
+### Preliminary Production Direction
+
+- Primary carrier: Low Beta (13–15 Hz) binaural + isochronic hybrid
+- Texture: Brown noise base + sparse harmonic overtones
+- Tuning: 432 Hz (maintain PFTE system standard)
+- Zero beats / zero percussion (maintain PFTE Zero-Beat Mandate)
+- Structure: Long-form. 90-minute sessions aligned with ultradian rhythm
+- Phases: Consider 2-phase structure — Entry (15–20 min ramp) + Core (sustained)
+- LUFS target: −14 LUFS (Spotify standard, same as Drift)
+
+### Suggested Series Structure (TBD)
+
+| Phase | Working Title | Duration | Function |
+|---|---|---|---|
+| 001 | BOOT | 20min | Focus entry ramp. Alpha → Beta transition. |
+| 002 | FLOW | 90min | Sustained Low Beta lock. Core work session. |
+| 003 | RESET | 15min | Micro-recovery. Alpha return. Between sessions. |
+
+---
+
+## 04. FUTURE SERIES — Research Directions
+### Not yet in production. For planning purposes only.
+
+---
+
+### MEDITATION / MINDFULNESS (Potential Series 04)
+
+**Target state:** Present-moment awareness. Reduced mind-wandering.
+Default mode network deactivation.
+
+**Frequency directions to research:**
+- Theta (4–8 Hz) — associated with meditative states in experienced meditators
+- Alpha (8–13 Hz) — open monitoring meditation
+- Gamma bursts — observed in advanced meditators (Tibetan monk studies, Davidson/Lutz)
+- 528 Hz — some association with "healing" states in limited literature
+
+**Key research to pull:**
+- Davidson & Lutz (2008) — Gamma waves in long-term meditators
+- Mindfulness meditation and default mode network deactivation
+- Theta binaural beats and meditative state induction
+
+---
+
+### ANXIETY RELIEF / STRESS REDUCTION (Potential Series 05)
+
+**Target state:** Parasympathetic activation. Cortisol reduction.
+Heart rate variability improvement.
+
+**Frequency directions to research:**
+- 0.1 Hz resonance frequency breathing (6 breaths/minute) + music sync
+- 432 Hz and blood pressure / ANS regulation
+- Nature sounds (water, rain, forest) and cortisol response
+- HRV biofeedback music protocols
+
+---
+
+### RECOVERY / POST-EXERCISE (Potential Series 06)
+
+**Target state:** Physiological recovery. Inflammation reduction.
+Parasympathetic rebound after sympathetic activation.
+
+**Frequency directions to research:**
+- Delta/Theta for post-exercise recovery
+- HRV recovery and music tempo
+- Cold exposure + audio pairing studies
+
+---
+
+## 05. UNIVERSAL PFTE PRODUCTION STANDARDS
+
+These apply to ALL series regardless of target state.
+
+### Audio QC Standards
+
+| Parameter | Sleep (IR) | Chill (Drift) | Focus (Work Mode) | Default |
+|---|---|---|---|---|
+| Integrated LUFS | −20.0 ±0.5 | −14 LUFS | −14 LUFS | −14 LUFS |
+| LRA | ≤6.0 LU | ≤8.0 LU | ≤8.0 LU | ≤8.0 LU |
+| True Peak | ≤−1.5 dBFS | ≤−1.0 dBFS | ≤−1.0 dBFS | ≤−1.0 dBFS |
+| Format | WAV 48kHz 16-bit stereo | WAV 48kHz 16-bit stereo | WAV 48kHz 16-bit stereo | WAV 48kHz 16-bit stereo |
+| Tuning | 432 Hz | 432 Hz | 432 Hz | 432 Hz |
+
+### Tools
+
+| Task | Tool |
+|---|---|
+| Editing / assembly | Audacity |
+| Final mastering / EBU R128 | Shutter Encoder v20.1 (FFmpeg dual-pass loudnorm) |
+| Analysis | ffprobe / ffmpeg |
+| Generation | Suno Pro (max ~150min render — use modular assembly) |
+
+### Modular Assembly Protocol (for long-form content)
+
+1. Generate components in Suno Pro (max ~150min each)
+2. Normalize all components to −22 LUFS before assembly
+3. Stitch with 3-second crossfades in Audacity
+4. Final Shutter Encoder pass for EBU R128 compliance
+5. QC check: ffprobe analysis before upload
+
+### The Zero-Beat Mandate
+
+Applies to all PFTE series.
+Absolute removal of percussive transients.
+Reason: prevents brain's cognitive rhythm-tracking from maintaining alertness.
+Exception: Focus series may introduce very sparse, non-rhythmic tonal events.
+
+### The Sub-Veil Filter (Sleep series only)
+
+Heavy aggressive low-pass filter, cutoff <200 Hz.
+Creates muffled auditory blanket.
+Blocks environmental noise without broadband noise (which harms REM).
+PFTE proprietary technique. Do not apply to non-sleep series.
+
+---
+
+## 06. SCIENTIFIC INTEGRITY RULES
+
+For all AI systems using this library:
+
+1. **Do not make clinical claims beyond what the research supports.**
+   "Designed to support deep sleep" is acceptable.
+   "Clinically proven to cure insomnia" is not.
+
+2. **Solfeggio frequencies are contested.** Use directionally.
+   Do not build primary marketing claims on 432 Hz or 528 Hz alone.
+   Frame as "mathematically consistent with natural resonance"
+   not as proven medical fact.
+
+3. **Binaural beats have directional evidence, not definitive proof.**
+   Systematic reviews show mixed results. Use language like
+   "designed to encourage" not "scientifically proven to produce."
+
+4. **Pink noise is actively harmful to REM sleep.**
+   This is well-supported (Penn Medicine). State clearly and use as
+   competitive differentiation — PFTE does not use pink noise.
+
+5. **All research references in this library are real.**
+   Do not invent citations. If new research is needed,
+   flag it and search before adding to this library.
+
+---
+
+*PFTE Science Library v1.0*
+*FUTURE SONANCE / 上海炜禾文化传播有限公司*
+*Last Updated: June 2, 2026*
+*For cross-AI synchronization via GitHub*
